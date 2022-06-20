@@ -11,7 +11,7 @@ import SwiftUI
 struct FexplorerApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            TabBarView()
         }
     }
 }
